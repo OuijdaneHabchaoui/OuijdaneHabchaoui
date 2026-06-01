@@ -1,9 +1,5 @@
 ## Hi there I'm Habchaoui Ouijdane👋
 
-# 💫 About Me:
-I am an Computer Engineering student specializing in Data Science, Artificial Intelligence, Big Data, and Business Intelligence.<br><br>I have developed strong skills in Machine Learning, Deep Learning, and Natural Language Processing (NLP), as well as in designing intelligent solutions based on Large Language Models (LLMs) and RAG systems.<br><br>I also have practical experience in MLOps, including machine learning model industrialization, CI/CD pipeline implementation, model monitoring, and workflow automation for deploying AI systems in production environments.<br><br>In addition, I have solid knowledge in software development and Object-Oriented Programming (OOP), which I apply in various academic projects ranging from web applications to artificial intelligence systems.<br><br>I am particularly interested in workflow automation and AI-driven intelligent systems, combining AI agents, LLMs, and advanced data processing techniques to build robust and scalable solutions.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ouijdane Habchaoui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wijdanehabchaoui@gmail.com) 
 
